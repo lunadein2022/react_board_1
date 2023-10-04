@@ -1,0 +1,3 @@
+npm install express body-parser mysql
+npm install nodemon
+node index.js
